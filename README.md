@@ -1,2 +1,2 @@
 # finalmasterthesis
-Codes used in the simulations of my Final Master Thesis
+Codes used in the simulations of my Final Master Thesis @ IFISC
